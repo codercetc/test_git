@@ -10,6 +10,7 @@ public class Test {
         System.out.println("hello");
         System.out.println("hello git");
         System.out.println("hello git");
+        System.out.println("hello fix branch");
         System.out.println("hello dev branch");
     }
 }
